@@ -1,4 +1,4 @@
-### MyClients-ReactJs
+### MyClientsV2-ReactJs
 
 Website where a registered user will be able to store the information of their clients.
 This information will be private for each user who publishes it.
