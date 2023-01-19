@@ -9,7 +9,7 @@ The backend is made with Node.js, and the data is stored in a MongoDB database. 
 
 ### Used Technologies
 
-HTML / CSS / Bootstrap V5 / JavaScript / React.js / Redux / Next.js / Node.js / GraphQL / ApolloServer / MongoDB / Mongoose / Cookies / Consume API
+HTML / CSS / Bootstrap5 / JavaScript / React.js / Redux / Next.js / Node.js / GraphQL / ApolloServer / MongoDB / Mongoose / Consume API
 
 ### Screenshots
 
