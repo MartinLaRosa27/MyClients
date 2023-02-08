@@ -13,7 +13,7 @@ The backend is made with Node.js, and the data is stored in a MongoDB database. 
 
 HTML / CSS / Bootstrap5 / JavaScript / React.js / Redux / Next.js / Node.js / GraphQL / ApolloServer / MongoDB / Mongoose
 
-### Screenshots
+### Screenshots:
 
 ![alt text](https://github.com/MartinLaRosa27/MyClients/blob/main/resources/screenshot01.png?raw=true)
 ![alt text](https://github.com/MartinLaRosa27/MyClients/blob/main/resources/screenshot02.png?raw=true)
